@@ -2,4 +2,4 @@
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 
-![Görsel](https://github.com/FerideMetin/kodluyoruzilkrepo)
+![Gorsel](https://picsum.photos/id/237/200/300)
